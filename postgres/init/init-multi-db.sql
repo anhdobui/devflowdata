@@ -1,0 +1,3 @@
+CREATE DATABASE n8n_db;
+CREATE DATABASE metabase_db;
+CREATE DATABASE superset;
